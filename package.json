@@ -1,0 +1,22 @@
+{
+  "name": "node_site",
+  "version": "1.0.0",
+  "description": "Practice with node site with web references",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilrayamajhi/nodeSite.git"
+  },
+  "author": "GI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilrayamajhi/nodeSite/issues"
+  },
+  "homepage": "https://github.com/anilrayamajhi/nodeSite#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
